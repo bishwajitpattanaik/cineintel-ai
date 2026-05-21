@@ -613,7 +613,7 @@ with col_left:
         height=200,
         placeholder=(
             "Paste any paragraph describing a movie — reviews, Wikipedia excerpts, "
-            "IMDb summaries, or anything in natural language…"
+            "IMDb summaries, or anything"
         ),
     )
     st.session_state["para_text"] = paragraph
