@@ -828,7 +828,7 @@ st.markdown("""
 </style>
 <div class="footer-new">
   <div class="footer-left">
-    CineIntel &nbsp;·&nbsp; 2025
+    CineIntel &nbsp;·&nbsp; 2026
   </div>
   <div class="footer-right">
     <span class="footer-name">Made by Bishwajit Pattanaik</span>
